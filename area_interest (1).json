@@ -1,0 +1,2395 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267753,
+              64.14023
+            ],
+            [
+              28.267762,
+              64.140162
+            ],
+            [
+              28.267989,
+              64.140169
+            ],
+            [
+              28.26798,
+              64.140236
+            ],
+            [
+              28.267753,
+              64.14023
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 83.1349,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 1,
+        "min_max_coords": {
+          "lat_max": 64.140236,
+          "lat_min": 64.140162,
+          "lng_max": 28.267989,
+          "lng_min": 28.267753
+        },
+        "name": "Cashier",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Front",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267567,
+              64.140192
+            ],
+            [
+              28.267603,
+              64.140194
+            ],
+            [
+              28.267607,
+              64.140169
+            ],
+            [
+              28.26757,
+              64.140167
+            ],
+            [
+              28.267567,
+              64.140192
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 4.9699,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140194,
+          "lat_min": 64.140167,
+          "lng_max": 28.267607,
+          "lng_min": 28.267567
+        },
+        "name": "Entrance",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Front",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267415,
+              64.14018
+            ],
+            [
+              28.267536,
+              64.140184
+            ],
+            [
+              28.26754,
+              64.140164
+            ],
+            [
+              28.267399,
+              64.140159
+            ],
+            [
+              28.267397,
+              64.140179
+            ],
+            [
+              28.267399,
+              64.140179
+            ],
+            [
+              28.267415,
+              64.14018
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 15.3422,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140184,
+          "lat_min": 64.140159,
+          "lng_max": 28.26754,
+          "lng_min": 28.267397
+        },
+        "name": "Garden and potatos",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Front",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267399,
+              64.140159
+            ],
+            [
+              28.267411,
+              64.140067
+            ],
+            [
+              28.267473,
+              64.14007
+            ],
+            [
+              28.267459,
+              64.140161
+            ],
+            [
+              28.267399,
+              64.140159
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 30.344,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140161,
+          "lat_min": 64.140067,
+          "lng_max": 28.267473,
+          "lng_min": 28.267399
+        },
+        "name": "Vegetables",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Front",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267464,
+              64.140131
+            ],
+            [
+              28.26755,
+              64.140134
+            ],
+            [
+              28.26754,
+              64.140164
+            ],
+            [
+              28.267459,
+              64.140161
+            ],
+            [
+              28.267464,
+              64.140131
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 13.6613,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140164,
+          "lat_min": 64.140131,
+          "lng_max": 28.26755,
+          "lng_min": 28.267459
+        },
+        "name": "Fresh vegetables",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Front",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267464,
+              64.140131
+            ],
+            [
+              28.26755,
+              64.140134
+            ],
+            [
+              28.267556,
+              64.140073
+            ],
+            [
+              28.267473,
+              64.14007
+            ],
+            [
+              28.267464,
+              64.140131
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 27.982,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140134,
+          "lat_min": 64.14007,
+          "lng_max": 28.267556,
+          "lng_min": 28.267464
+        },
+        "name": "Fruits",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Front",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267543,
+              64.140153
+            ],
+            [
+              28.267638,
+              64.140156
+            ],
+            [
+              28.267649,
+              64.140049
+            ],
+            [
+              28.267556,
+              64.140073
+            ],
+            [
+              28.26755,
+              64.140134
+            ],
+            [
+              28.267543,
+              64.140153
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 45.9781,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140156,
+          "lat_min": 64.140049,
+          "lng_max": 28.267649,
+          "lng_min": 28.267543
+        },
+        "name": "Processed food",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Front",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267411,
+              64.140067
+            ],
+            [
+              28.267473,
+              64.14007
+            ],
+            [
+              28.267481,
+              64.140021
+            ],
+            [
+              28.267419,
+              64.140019
+            ],
+            [
+              28.267411,
+              64.140067
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 16.3611,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.14007,
+          "lat_min": 64.140019,
+          "lng_max": 28.267481,
+          "lng_min": 28.267411
+        },
+        "name": "Sausage",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Front",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267473,
+              64.14007
+            ],
+            [
+              28.267556,
+              64.140073
+            ],
+            [
+              28.267602,
+              64.140061
+            ],
+            [
+              28.267605,
+              64.140025
+            ],
+            [
+              28.267481,
+              64.140021
+            ],
+            [
+              28.267473,
+              64.14007
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 32.0493,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140073,
+          "lat_min": 64.140021,
+          "lng_max": 28.267605,
+          "lng_min": 28.267473
+        },
+        "name": "Smoothies",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Front",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267419,
+              64.140019
+            ],
+            [
+              28.267481,
+              64.140021
+            ],
+            [
+              28.26749,
+              64.139935
+            ],
+            [
+              28.267423,
+              64.139934
+            ],
+            [
+              28.267419,
+              64.140019
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 29.8604,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140021,
+          "lat_min": 64.139934,
+          "lng_max": 28.26749,
+          "lng_min": 28.267419
+        },
+        "name": "Cold cuts",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Back",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.26749,
+              64.139935
+            ],
+            [
+              28.267495,
+              64.139909
+            ],
+            [
+              28.267439,
+              64.139879
+            ],
+            [
+              28.267424,
+              64.139933
+            ],
+            [
+              28.26749,
+              64.139935
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 14.0532,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.139935,
+          "lat_min": 64.139879,
+          "lng_max": 28.267495,
+          "lng_min": 28.267424
+        },
+        "name": "Cheese",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Back",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267439,
+              64.139879
+            ],
+            [
+              28.267495,
+              64.139909
+            ],
+            [
+              28.267657,
+              64.139914
+            ],
+            [
+              28.267653,
+              64.139887
+            ],
+            [
+              28.267439,
+              64.139879
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 27.9065,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.139914,
+          "lat_min": 64.139879,
+          "lng_max": 28.267657,
+          "lng_min": 28.267439
+        },
+        "name": "Butter",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Back",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267657,
+              64.140025
+            ],
+            [
+              28.267591,
+              64.140024
+            ],
+            [
+              28.267608,
+              64.139923
+            ],
+            [
+              28.267672,
+              64.139924
+            ],
+            [
+              28.267657,
+              64.140025
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 35.5708,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140025,
+          "lat_min": 64.139923,
+          "lng_max": 28.267672,
+          "lng_min": 28.267591
+        },
+        "name": "Fish and meat",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Back",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267481,
+              64.140021
+            ],
+            [
+              28.267591,
+              64.140024
+            ],
+            [
+              28.267598,
+              64.139981
+            ],
+            [
+              28.267485,
+              64.139978
+            ],
+            [
+              28.267481,
+              64.140021
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 26.0038,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140024,
+          "lat_min": 64.139978,
+          "lng_max": 28.267598,
+          "lng_min": 28.267481
+        },
+        "name": "Bakery",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Back",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267485,
+              64.139978
+            ],
+            [
+              28.267495,
+              64.139909
+            ],
+            [
+              28.26761,
+              64.139913
+            ],
+            [
+              28.267598,
+              64.139981
+            ],
+            [
+              28.267485,
+              64.139978
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 42.4164,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.139981,
+          "lat_min": 64.139909,
+          "lng_max": 28.26761,
+          "lng_min": 28.267485
+        },
+        "name": "Bread",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Back",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267656,
+              64.139909
+            ],
+            [
+              28.267705,
+              64.13991
+            ],
+            [
+              28.267709,
+              64.139889
+            ],
+            [
+              28.26766,
+              64.139887
+            ],
+            [
+              28.267656,
+              64.139908
+            ],
+            [
+              28.267656,
+              64.139909
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 5.7375,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.13991,
+          "lat_min": 64.139887,
+          "lng_max": 28.267709,
+          "lng_min": 28.267656
+        },
+        "name": "Eggs",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Back",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267705,
+              64.13991
+            ],
+            [
+              28.267756,
+              64.139912
+            ],
+            [
+              28.26776,
+              64.139891
+            ],
+            [
+              28.267709,
+              64.139889
+            ],
+            [
+              28.267705,
+              64.13991
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 5.8321,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.139912,
+          "lat_min": 64.139889,
+          "lng_max": 28.26776,
+          "lng_min": 28.267705
+        },
+        "name": "Oriental",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Back",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.268124,
+              64.140035
+            ],
+            [
+              28.268225,
+              64.140037
+            ],
+            [
+              28.268237,
+              64.139941
+            ],
+            [
+              28.26814,
+              64.139936
+            ],
+            [
+              28.268124,
+              64.140035
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 52.4374,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140037,
+          "lat_min": 64.139936,
+          "lng_max": 28.268237,
+          "lng_min": 28.268124
+        },
+        "name": "Dairy",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Back",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.26805,
+              64.14004
+            ],
+            [
+              28.268115,
+              64.140042
+            ],
+            [
+              28.26814,
+              64.139936
+            ],
+            [
+              28.268066,
+              64.139934
+            ],
+            [
+              28.26805,
+              64.14004
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 40.0408,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140042,
+          "lat_min": 64.139934,
+          "lng_max": 28.26814,
+          "lng_min": 28.26805
+        },
+        "name": "Soft drinks",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Back",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.26805,
+              64.14004
+            ],
+            [
+              28.267985,
+              64.140039
+            ],
+            [
+              28.268001,
+              64.139933
+            ],
+            [
+              28.268066,
+              64.139934
+            ],
+            [
+              28.26805,
+              64.14004
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 37.3275,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.14004,
+          "lat_min": 64.139933,
+          "lng_max": 28.268066,
+          "lng_min": 28.267985
+        },
+        "name": "Beers",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Back",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267985,
+              64.140039
+            ],
+            [
+              28.267922,
+              64.140038
+            ],
+            [
+              28.267937,
+              64.139932
+            ],
+            [
+              28.268001,
+              64.139933
+            ],
+            [
+              28.267985,
+              64.140039
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 36.4654,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140039,
+          "lat_min": 64.139932,
+          "lng_max": 28.268001,
+          "lng_min": 28.267922
+        },
+        "name": "Animal food, snacks",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Back",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267922,
+              64.140038
+            ],
+            [
+              28.267857,
+              64.140036
+            ],
+            [
+              28.267869,
+              64.13993
+            ],
+            [
+              28.267937,
+              64.139932
+            ],
+            [
+              28.267922,
+              64.140038
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 38.2463,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140038,
+          "lat_min": 64.13993,
+          "lng_max": 28.267937,
+          "lng_min": 28.267857
+        },
+        "name": "Biscuits, coffee, tea, cacao",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Back",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267857,
+              64.140036
+            ],
+            [
+              28.267791,
+              64.140034
+            ],
+            [
+              28.267807,
+              64.139929
+            ],
+            [
+              28.267869,
+              64.13993
+            ],
+            [
+              28.267857,
+              64.140036
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 36.6086,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140036,
+          "lat_min": 64.139929,
+          "lng_max": 28.267869,
+          "lng_min": 28.267791
+        },
+        "name": "Cereal, porridge, juice, sugar, salt",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Back",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267791,
+              64.140034
+            ],
+            [
+              28.267728,
+              64.140032
+            ],
+            [
+              28.267743,
+              64.139926
+            ],
+            [
+              28.267807,
+              64.139929
+            ],
+            [
+              28.267791,
+              64.140034
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 36.4194,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140034,
+          "lat_min": 64.139926,
+          "lng_max": 28.267807,
+          "lng_min": 28.267728
+        },
+        "name": "Flowers, ketchup, mustard, oil, spices, gluten free",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Back",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267728,
+              64.140032
+            ],
+            [
+              28.267657,
+              64.140025
+            ],
+            [
+              28.267672,
+              64.139924
+            ],
+            [
+              28.267743,
+              64.139926
+            ],
+            [
+              28.267728,
+              64.140032
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 40.0841,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140032,
+          "lat_min": 64.139924,
+          "lng_max": 28.267743,
+          "lng_min": 28.267657
+        },
+        "name": "Canned foods, rice, pasta, jellies, soups",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Back",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.268118,
+              64.140152
+            ],
+            [
+              28.268184,
+              64.140191
+            ],
+            [
+              28.268203,
+              64.140064
+            ],
+            [
+              28.268133,
+              64.140062
+            ],
+            [
+              28.268118,
+              64.140152
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 41.7621,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140191,
+          "lat_min": 64.140062,
+          "lng_max": 28.268203,
+          "lng_min": 28.268118
+        },
+        "name": "Baby care, child food, toys",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Front",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.268118,
+              64.140152
+            ],
+            [
+              28.268055,
+              64.140151
+            ],
+            [
+              28.268067,
+              64.140062
+            ],
+            [
+              28.268133,
+              64.140062
+            ],
+            [
+              28.268118,
+              64.140152
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 31.2385,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140152,
+          "lat_min": 64.140062,
+          "lng_max": 28.268133,
+          "lng_min": 28.268055
+        },
+        "name": "Disposable dish, tissues",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Front",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.268055,
+              64.140151
+            ],
+            [
+              28.267991,
+              64.14015
+            ],
+            [
+              28.268004,
+              64.14006
+            ],
+            [
+              28.268067,
+              64.140062
+            ],
+            [
+              28.268055,
+              64.140151
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 30.8196,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140151,
+          "lat_min": 64.14006,
+          "lng_max": 28.268067,
+          "lng_min": 28.267991
+        },
+        "name": "Detergents",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Front",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267991,
+              64.14015
+            ],
+            [
+              28.267929,
+              64.140149
+            ],
+            [
+              28.267942,
+              64.140059
+            ],
+            [
+              28.268004,
+              64.14006
+            ],
+            [
+              28.267991,
+              64.14015
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 30.2305,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.14015,
+          "lat_min": 64.140059,
+          "lng_max": 28.268004,
+          "lng_min": 28.267929
+        },
+        "name": "Intimate hygiene, tooth, shampoos, deodorants",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Front",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267929,
+              64.140149
+            ],
+            [
+              28.267863,
+              64.140148
+            ],
+            [
+              28.267878,
+              64.140058
+            ],
+            [
+              28.267942,
+              64.140059
+            ],
+            [
+              28.267929,
+              64.140149
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 31.6953,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140149,
+          "lat_min": 64.140058,
+          "lng_max": 28.267942,
+          "lng_min": 28.267863
+        },
+        "name": "Newspapers",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Front",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267878,
+              64.140058
+            ],
+            [
+              28.267809,
+              64.140056
+            ],
+            [
+              28.267793,
+              64.140145
+            ],
+            [
+              28.267863,
+              64.140148
+            ],
+            [
+              28.267878,
+              64.140058
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 33.8303,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140148,
+          "lat_min": 64.140056,
+          "lng_max": 28.267878,
+          "lng_min": 28.267793
+        },
+        "name": "Sweets",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Front",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267809,
+              64.140056
+            ],
+            [
+              28.267734,
+              64.140054
+            ],
+            [
+              28.267718,
+              64.140144
+            ],
+            [
+              28.267793,
+              64.140145
+            ],
+            [
+              28.267809,
+              64.140056
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 36.4112,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140145,
+          "lat_min": 64.140054,
+          "lng_max": 28.267809,
+          "lng_min": 28.267718
+        },
+        "name": "Ice crea",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Front",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267718,
+              64.140144
+            ],
+            [
+              28.267661,
+              64.140152
+            ],
+            [
+              28.267638,
+              64.14015
+            ],
+            [
+              28.267649,
+              64.140049
+            ],
+            [
+              28.267663,
+              64.140053
+            ],
+            [
+              28.267734,
+              64.140054
+            ],
+            [
+              28.267718,
+              64.140144
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 42.6243,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140152,
+          "lat_min": 64.140049,
+          "lng_max": 28.267734,
+          "lng_min": 28.267638
+        },
+        "name": "Frozen food",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Front",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267649,
+              64.140049
+            ],
+            [
+              28.267663,
+              64.140053
+            ],
+            [
+              28.267734,
+              64.140054
+            ],
+            [
+              28.267809,
+              64.140056
+            ],
+            [
+              28.267878,
+              64.140058
+            ],
+            [
+              28.267942,
+              64.140059
+            ],
+            [
+              28.268004,
+              64.14006
+            ],
+            [
+              28.268067,
+              64.140062
+            ],
+            [
+              28.268133,
+              64.140062
+            ],
+            [
+              28.268133,
+              64.140042
+            ],
+            [
+              28.268115,
+              64.140042
+            ],
+            [
+              28.268083,
+              64.140041
+            ],
+            [
+              28.26808,
+              64.140056
+            ],
+            [
+              28.268016,
+              64.140054
+            ],
+            [
+              28.268018,
+              64.14004
+            ],
+            [
+              28.267985,
+              64.140039
+            ],
+            [
+              28.267922,
+              64.140038
+            ],
+            [
+              28.267857,
+              64.140036
+            ],
+            [
+              28.267791,
+              64.140034
+            ],
+            [
+              28.267728,
+              64.140032
+            ],
+            [
+              28.267657,
+              64.140025
+            ],
+            [
+              28.267649,
+              64.140049
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 51.0265,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140062,
+          "lat_min": 64.140025,
+          "lng_max": 28.268133,
+          "lng_min": 28.267649
+        },
+        "name": "Corridor, middle",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Front",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267654,
+              64.140183
+            ],
+            [
+              28.267658,
+              64.140158
+            ],
+            [
+              28.267752,
+              64.140161
+            ],
+            [
+              28.267748,
+              64.140185
+            ],
+            [
+              28.267654,
+              64.140183
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 12.5019,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140185,
+          "lat_min": 64.140158,
+          "lng_max": 28.267752,
+          "lng_min": 28.267654
+        },
+        "name": "Local goods",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Front",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267771,
+              64.139891
+            ],
+            [
+              28.267767,
+              64.139912
+            ],
+            [
+              28.267886,
+              64.139915
+            ],
+            [
+              28.26789,
+              64.139895
+            ],
+            [
+              28.267771,
+              64.139891
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 13.2614,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.139915,
+          "lat_min": 64.139891,
+          "lng_max": 28.26789,
+          "lng_min": 28.267767
+        },
+        "name": "Tex mex",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Back",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267926,
+              64.139896
+            ],
+            [
+              28.267922,
+              64.139916
+            ],
+            [
+              28.268084,
+              64.139921
+            ],
+            [
+              28.268087,
+              64.139901
+            ],
+            [
+              28.267926,
+              64.139896
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 17.553,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.139921,
+          "lat_min": 64.139896,
+          "lng_max": 28.268087,
+          "lng_min": 28.267922
+        },
+        "name": "Cold beverages",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Back",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.268097,
+              64.139902
+            ],
+            [
+              28.268094,
+              64.13992
+            ],
+            [
+              28.268146,
+              64.139922
+            ],
+            [
+              28.26815,
+              64.139903
+            ],
+            [
+              28.268097,
+              64.139902
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 5.2781,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.139922,
+          "lat_min": 64.139902,
+          "lng_max": 28.26815,
+          "lng_min": 28.268094
+        },
+        "name": "Energy drinks",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Back",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.268146,
+              64.139922
+            ],
+            [
+              28.268189,
+              64.139923
+            ],
+            [
+              28.268223,
+              64.139906
+            ],
+            [
+              28.26815,
+              64.139903
+            ],
+            [
+              28.268146,
+              64.139922
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 5.8483,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.139923,
+          "lat_min": 64.139903,
+          "lng_max": 28.268223,
+          "lng_min": 28.268146
+        },
+        "name": "Sports food",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Back",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.268237,
+              64.139941
+            ],
+            [
+              28.268243,
+              64.139907
+            ],
+            [
+              28.268224,
+              64.139906
+            ],
+            [
+              28.268189,
+              64.139923
+            ],
+            [
+              28.268187,
+              64.139938
+            ],
+            [
+              28.268237,
+              64.139941
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 7.7131,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.139941,
+          "lat_min": 64.139906,
+          "lng_max": 28.268243,
+          "lng_min": 28.268187
+        },
+        "name": "Juice",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Back",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.267672,
+              64.139924
+            ],
+            [
+              28.267675,
+              64.139909
+            ],
+            [
+              28.267705,
+              64.13991
+            ],
+            [
+              28.267756,
+              64.139912
+            ],
+            [
+              28.267767,
+              64.139912
+            ],
+            [
+              28.267886,
+              64.139915
+            ],
+            [
+              28.267922,
+              64.139916
+            ],
+            [
+              28.268084,
+              64.139921
+            ],
+            [
+              28.268094,
+              64.13992
+            ],
+            [
+              28.268146,
+              64.139922
+            ],
+            [
+              28.268189,
+              64.139923
+            ],
+            [
+              28.268187,
+              64.139938
+            ],
+            [
+              28.26814,
+              64.139936
+            ],
+            [
+              28.268066,
+              64.139934
+            ],
+            [
+              28.268001,
+              64.139933
+            ],
+            [
+              28.267937,
+              64.139932
+            ],
+            [
+              28.267869,
+              64.13993
+            ],
+            [
+              28.267807,
+              64.139929
+            ],
+            [
+              28.267743,
+              64.139926
+            ],
+            [
+              28.267672,
+              64.139924
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 41.4354,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.139938,
+          "lat_min": 64.139909,
+          "lng_max": 28.268189,
+          "lng_min": 28.267672
+        },
+        "name": "Corridor, back",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Back",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              28.268016,
+              64.140054
+            ],
+            [
+              28.268018,
+              64.14004
+            ],
+            [
+              28.26805,
+              64.14004
+            ],
+            [
+              28.268083,
+              64.140041
+            ],
+            [
+              28.26808,
+              64.140056
+            ],
+            [
+              28.268016,
+              64.140054
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 5.1618,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 64.140056,
+          "lat_min": 64.14004,
+          "lng_max": 28.268083,
+          "lng_min": 28.268016
+        },
+        "name": "Display, beer",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Front",
+        "parent_2": "Store",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
