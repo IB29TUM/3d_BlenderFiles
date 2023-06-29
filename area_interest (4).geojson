@@ -1,0 +1,5151 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.883622,
+              51.52702
+            ],
+            [
+              9.883625,
+              51.527087
+            ],
+            [
+              9.883008,
+              51.527096
+            ],
+            [
+              9.883005,
+              51.527028
+            ],
+            [
+              9.883622,
+              51.52702
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 321.2838,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.527096,
+          "lat_min": 51.52702,
+          "lng_max": 9.883625,
+          "lng_min": 9.883005
+        },
+        "name": "Die Spielbank",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Entertainment",
+        "parent_2": "Parking_2",
+        "passers_by_polygon": false,
+        "state": "open",
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881819,
+              51.52747
+            ],
+            [
+              9.881926,
+              51.52747
+            ],
+            [
+              9.881917,
+              51.527143
+            ],
+            [
+              9.881812,
+              51.527143
+            ],
+            [
+              9.881819,
+              51.52747
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 267.23,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.52747,
+          "lat_min": 51.527143,
+          "lng_max": 9.881926,
+          "lng_min": 9.881812
+        },
+        "name": "Merkur Spielothek",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Entertainment",
+        "parent_2": "Parking_3",
+        "passers_by_polygon": false,
+        "state": "open",
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881828,
+              51.528254
+            ],
+            [
+              9.881922,
+              51.528254
+            ],
+            [
+              9.881914,
+              51.527946
+            ],
+            [
+              9.881822,
+              51.527948
+            ],
+            [
+              9.881828,
+              51.528254
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 220.1668,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.528254,
+          "lat_min": 51.527946,
+          "lng_max": 9.881922,
+          "lng_min": 9.881822
+        },
+        "name": "Outdoor Area",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "",
+        "parent_2": "",
+        "passers_by_polygon": false,
+        "state": "open",
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881473,
+              51.529577
+            ],
+            [
+              9.88153,
+              51.529576
+            ],
+            [
+              9.881531,
+              51.529558
+            ],
+            [
+              9.88179,
+              51.529557
+            ],
+            [
+              9.8818,
+              51.529786
+            ],
+            [
+              9.881536,
+              51.529789
+            ],
+            [
+              9.881532,
+              51.529668
+            ],
+            [
+              9.881476,
+              51.529668
+            ],
+            [
+              9.881473,
+              51.529577
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 505.3725,
+        "max_distance": 7,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529789,
+          "lat_min": 51.529557,
+          "lng_max": 9.8818,
+          "lng_min": 9.881473
+        },
+        "name": "Rossmann",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Rossmann",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881554,
+              51.529415
+            ],
+            [
+              9.881716,
+              51.529415
+            ],
+            [
+              9.881715,
+              51.529352
+            ],
+            [
+              9.881553,
+              51.529353
+            ],
+            [
+              9.881554,
+              51.529415
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 78.06,
+        "max_distance": 10,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529415,
+          "lat_min": 51.529352,
+          "lng_max": 9.881716,
+          "lng_min": 9.881553
+        },
+        "name": "Cocoon",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Cocoon",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "state": "open",
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881272,
+              51.526925
+            ],
+            [
+              9.881271,
+              51.526874
+            ],
+            [
+              9.881504,
+              51.526871
+            ],
+            [
+              9.881506,
+              51.526922
+            ],
+            [
+              9.881272,
+              51.526925
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 91.8452,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.526925,
+          "lat_min": 51.526871,
+          "lng_max": 9.881506,
+          "lng_min": 9.881271
+        },
+        "name": "Matrazen Concord",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Haus / Interior / Geschenke",
+        "parent_2": "Parking_3",
+        "passers_by_polygon": false,
+        "state": "open",
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.880254,
+              51.526934
+            ],
+            [
+              9.880252,
+              51.526881
+            ],
+            [
+              9.880517,
+              51.526878
+            ],
+            [
+              9.880517,
+              51.526932
+            ],
+            [
+              9.880254,
+              51.526934
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 108.9106,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.526934,
+          "lat_min": 51.526878,
+          "lng_max": 9.880517,
+          "lng_min": 9.880252
+        },
+        "name": "SUNPOINT",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Gesundheit & Körperfplege",
+        "parent_2": "Parking_3",
+        "passers_by_polygon": false,
+        "state": "open",
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881286,
+              51.528352
+            ],
+            [
+              9.881609,
+              51.528349
+            ],
+            [
+              9.881609,
+              51.528317
+            ],
+            [
+              9.881722,
+              51.528316
+            ],
+            [
+              9.881721,
+              51.528257
+            ],
+            [
+              9.881819,
+              51.528257
+            ],
+            [
+              9.881816,
+              51.528061
+            ],
+            [
+              9.880341,
+              51.528066
+            ],
+            [
+              9.880356,
+              51.528688
+            ],
+            [
+              9.881294,
+              51.528676
+            ],
+            [
+              9.881286,
+              51.528352
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 5558.4545,
+        "max_distance": 20,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.528688,
+          "lat_min": 51.528061,
+          "lng_max": 9.881819,
+          "lng_min": 9.880341
+        },
+        "name": "OBI",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of OBI",
+        "parent_2": "Mall 3",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881826,
+              51.528563
+            ],
+            [
+              9.88183,
+              51.528723
+            ],
+            [
+              9.881616,
+              51.528727
+            ],
+            [
+              9.881615,
+              51.528673
+            ],
+            [
+              9.881447,
+              51.528674
+            ],
+            [
+              9.881445,
+              51.528567
+            ],
+            [
+              9.881826,
+              51.528563
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 403.9865,
+        "max_distance": 25,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.528727,
+          "lat_min": 51.528563,
+          "lng_max": 9.88183,
+          "lng_min": 9.881445
+        },
+        "name": "Deichmann",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Deichmann",
+        "parent_2": "Mall 3",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881445,
+              51.528513
+            ],
+            [
+              9.881529,
+              51.528459
+            ],
+            [
+              9.881747,
+              51.528455
+            ],
+            [
+              9.881748,
+              51.528564
+            ],
+            [
+              9.881445,
+              51.528567
+            ],
+            [
+              9.881445,
+              51.528513
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 234.2653,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.528567,
+          "lat_min": 51.528455,
+          "lng_max": 9.881748,
+          "lng_min": 9.881445
+        },
+        "name": "Thalia",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Thalia",
+        "parent_2": "Mall 3",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881532,
+              51.529668
+            ],
+            [
+              9.881536,
+              51.529789
+            ],
+            [
+              9.881479,
+              51.529789
+            ],
+            [
+              9.881476,
+              51.529668
+            ],
+            [
+              9.881532,
+              51.529668
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 52.7039,
+        "max_distance": 99,
+        "max_duration": 0,
+        "min_duration": 60,
+        "min_max_coords": {
+          "lat_max": 51.529789,
+          "lat_min": 51.529668,
+          "lng_max": 9.881536,
+          "lng_min": 9.881476
+        },
+        "name": "Watch&Co",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Watch&Co",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881481,
+              51.52986
+            ],
+            [
+              9.881479,
+              51.529789
+            ],
+            [
+              9.881536,
+              51.529789
+            ],
+            [
+              9.8818,
+              51.529786
+            ],
+            [
+              9.8818,
+              51.529856
+            ],
+            [
+              9.881481,
+              51.52986
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 173.2867,
+        "max_distance": 30,
+        "max_duration": 0,
+        "min_duration": 1,
+        "min_max_coords": {
+          "lat_max": 51.52986,
+          "lat_min": 51.529786,
+          "lng_max": 9.8818,
+          "lng_min": 9.881479
+        },
+        "name": "Apollo-Optik",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Apollo-Optik",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881481,
+              51.52986
+            ],
+            [
+              9.881482,
+              51.529915
+            ],
+            [
+              9.88157,
+              51.529968
+            ],
+            [
+              9.881782,
+              51.529965
+            ],
+            [
+              9.881783,
+              51.529856
+            ],
+            [
+              9.881481,
+              51.52986
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 234.605,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529968,
+          "lat_min": 51.529856,
+          "lng_max": 9.881783,
+          "lng_min": 9.881481
+        },
+        "name": "Apotheke",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Apotheke",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": false
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881328,
+              51.529916
+            ],
+            [
+              9.88121,
+              51.529918
+            ],
+            [
+              9.88121,
+              51.529951
+            ],
+            [
+              9.881329,
+              51.529949
+            ],
+            [
+              9.881328,
+              51.529916
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 30.1543,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529951,
+          "lat_min": 51.529916,
+          "lng_max": 9.881329,
+          "lng_min": 9.88121
+        },
+        "name": "Curry37",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Curry37",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881331,
+              51.530001
+            ],
+            [
+              9.881213,
+              51.530002
+            ],
+            [
+              9.881214,
+              51.53004
+            ],
+            [
+              9.881331,
+              51.530039
+            ],
+            [
+              9.881331,
+              51.530001
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 34.4252,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.53004,
+          "lat_min": 51.530001,
+          "lng_max": 9.881331,
+          "lng_min": 9.881213
+        },
+        "name": "Mobilcom",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Mobilcom",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881811,
+              51.530073
+            ],
+            [
+              9.881573,
+              51.530075
+            ],
+            [
+              9.881575,
+              51.530147
+            ],
+            [
+              9.881494,
+              51.530148
+            ],
+            [
+              9.881502,
+              51.530397
+            ],
+            [
+              9.881888,
+              51.530396
+            ],
+            [
+              9.881882,
+              51.530137
+            ],
+            [
+              9.881812,
+              51.530136
+            ],
+            [
+              9.881811,
+              51.530073
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 883.7171,
+        "max_distance": 25,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.530397,
+          "lat_min": 51.530073,
+          "lng_max": 9.881888,
+          "lng_min": 9.881494
+        },
+        "name": "Aldi",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Aldi",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881328,
+              51.529916
+            ],
+            [
+              9.88121,
+              51.529918
+            ],
+            [
+              9.881208,
+              51.529809
+            ],
+            [
+              9.881297,
+              51.529808
+            ],
+            [
+              9.881326,
+              51.529808
+            ],
+            [
+              9.881328,
+              51.529916
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 98.8353,
+        "max_distance": 30,
+        "max_duration": 0,
+        "min_duration": 60,
+        "min_max_coords": {
+          "lat_max": 51.529918,
+          "lat_min": 51.529808,
+          "lng_max": 9.881328,
+          "lng_min": 9.881208
+        },
+        "name": "Fotofachgeschäft Heinrich",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Fotofachgeschäft Heinrich",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881553,
+              51.529353
+            ],
+            [
+              9.88177,
+              51.529351
+            ],
+            [
+              9.88177,
+              51.529265
+            ],
+            [
+              9.881551,
+              51.529267
+            ],
+            [
+              9.881553,
+              51.529353
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 144.5486,
+        "max_distance": 7,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529353,
+          "lat_min": 51.529265,
+          "lng_max": 9.88177,
+          "lng_min": 9.881551
+        },
+        "name": "Capricorn",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Capricorn",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.88147,
+              51.529467
+            ],
+            [
+              9.881717,
+              51.529464
+            ],
+            [
+              9.881717,
+              51.529452
+            ],
+            [
+              9.881845,
+              51.52945
+            ],
+            [
+              9.881847,
+              51.529534
+            ],
+            [
+              9.881492,
+              51.529537
+            ],
+            [
+              9.881492,
+              51.529554
+            ],
+            [
+              9.881472,
+              51.529554
+            ],
+            [
+              9.88147,
+              51.529467
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 219.8131,
+        "max_distance": 50,
+        "max_duration": 0,
+        "min_duration": 1,
+        "min_max_coords": {
+          "lat_max": 51.529554,
+          "lat_min": 51.52945,
+          "lng_max": 9.881847,
+          "lng_min": 9.88147
+        },
+        "name": "Douglas",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Douglas",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.88147,
+              51.529467
+            ],
+            [
+              9.881469,
+              51.529429
+            ],
+            [
+              9.881554,
+              51.529428
+            ],
+            [
+              9.881554,
+              51.529415
+            ],
+            [
+              9.881716,
+              51.529415
+            ],
+            [
+              9.881717,
+              51.529464
+            ],
+            [
+              9.88147,
+              51.529467
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 87.3803,
+        "max_distance": 99,
+        "max_duration": 0,
+        "min_duration": 1,
+        "min_max_coords": {
+          "lat_max": 51.529467,
+          "lat_min": 51.529415,
+          "lng_max": 9.881717,
+          "lng_min": 9.881469
+        },
+        "name": "S_Oliver",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of S_Oliver",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881208,
+              51.529809
+            ],
+            [
+              9.881326,
+              51.529808
+            ],
+            [
+              9.881322,
+              51.529686
+            ],
+            [
+              9.881205,
+              51.529687
+            ],
+            [
+              9.881208,
+              51.529809
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 110.5381,
+        "max_distance": 10,
+        "max_duration": 0,
+        "min_duration": 1,
+        "min_max_coords": {
+          "lat_max": 51.529809,
+          "lat_min": 51.529686,
+          "lng_max": 9.881326,
+          "lng_min": 9.881205
+        },
+        "name": "Telekom Shop",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Telekom Shop",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881205,
+              51.529665
+            ],
+            [
+              9.881322,
+              51.529664
+            ],
+            [
+              9.88132,
+              51.529594
+            ],
+            [
+              9.881203,
+              51.529595
+            ],
+            [
+              9.881205,
+              51.529665
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 63.1538,
+        "max_distance": 20,
+        "max_duration": 0,
+        "min_duration": 1,
+        "min_max_coords": {
+          "lat_max": 51.529665,
+          "lat_min": 51.529594,
+          "lng_max": 9.881322,
+          "lng_min": 9.881203
+        },
+        "name": "Vodafone Shop",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Vodafone Shop",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881203,
+              51.529595
+            ],
+            [
+              9.88132,
+              51.529594
+            ],
+            [
+              9.881318,
+              51.529526
+            ],
+            [
+              9.881202,
+              51.529527
+            ],
+            [
+              9.881203,
+              51.529595
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 61.084,
+        "max_distance": 20,
+        "max_duration": 0,
+        "min_duration": 1,
+        "min_max_coords": {
+          "lat_max": 51.529595,
+          "lat_min": 51.529526,
+          "lng_max": 9.88132,
+          "lng_min": 9.881202
+        },
+        "name": "TUI",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of TUI",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881202,
+              51.529527
+            ],
+            [
+              9.881318,
+              51.529526
+            ],
+            [
+              9.881315,
+              51.529431
+            ],
+            [
+              9.881227,
+              51.529432
+            ],
+            [
+              9.881198,
+              51.529448
+            ],
+            [
+              9.881202,
+              51.529527
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 83.6952,
+        "max_distance": 50,
+        "max_duration": 0,
+        "min_duration": 60,
+        "min_max_coords": {
+          "lat_max": 51.529527,
+          "lat_min": 51.529431,
+          "lng_max": 9.881318,
+          "lng_min": 9.881198
+        },
+        "name": "Engbers",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Engbers",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881104,
+              51.529325
+            ],
+            [
+              9.881226,
+              51.529324
+            ],
+            [
+              9.881225,
+              51.52927
+            ],
+            [
+              9.881103,
+              51.529272
+            ],
+            [
+              9.881104,
+              51.529325
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 50.3299,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529325,
+          "lat_min": 51.52927,
+          "lng_max": 9.881226,
+          "lng_min": 9.881103
+        },
+        "name": "Tabak",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Tabak",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.880373,
+              51.529334
+            ],
+            [
+              9.880405,
+              51.529334
+            ],
+            [
+              9.880407,
+              51.52936
+            ],
+            [
+              9.880608,
+              51.529358
+            ],
+            [
+              9.880608,
+              51.529365
+            ],
+            [
+              9.880935,
+              51.529361
+            ],
+            [
+              9.880935,
+              51.529326
+            ],
+            [
+              9.881104,
+              51.529325
+            ],
+            [
+              9.881103,
+              51.529272
+            ],
+            [
+              9.881225,
+              51.52927
+            ],
+            [
+              9.881218,
+              51.529109
+            ],
+            [
+              9.8811,
+              51.52911
+            ],
+            [
+              9.881098,
+              51.529007
+            ],
+            [
+              9.880365,
+              51.529009
+            ],
+            [
+              9.880373,
+              51.529334
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 2090.4366,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529365,
+          "lat_min": 51.529007,
+          "lng_max": 9.881225,
+          "lng_min": 9.880365
+        },
+        "name": "Expert Herfag",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Expert Herfag",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.880945,
+              51.528961
+            ],
+            [
+              9.881024,
+              51.52891
+            ],
+            [
+              9.881302,
+              51.528907
+            ],
+            [
+              9.881299,
+              51.528838
+            ],
+            [
+              9.880939,
+              51.528843
+            ],
+            [
+              9.880945,
+              51.528961
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 205.7003,
+        "max_distance": 99,
+        "max_duration": 0,
+        "min_duration": 1,
+        "min_max_coords": {
+          "lat_max": 51.528961,
+          "lat_min": 51.528838,
+          "lng_max": 9.881302,
+          "lng_min": 9.880939
+        },
+        "name": "Zoo Busch",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Zoo Busch",
+        "parent_2": "Mall 3",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.880704,
+              51.528898
+            ],
+            [
+              9.880861,
+              51.528896
+            ],
+            [
+              9.880939,
+              51.528843
+            ],
+            [
+              9.881299,
+              51.528838
+            ],
+            [
+              9.881294,
+              51.528676
+            ],
+            [
+              9.880663,
+              51.528684
+            ],
+            [
+              9.880667,
+              51.528853
+            ],
+            [
+              9.880699,
+              51.528855
+            ],
+            [
+              9.880704,
+              51.528898
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 872.3089,
+        "max_distance": 99,
+        "max_duration": 0,
+        "min_duration": 60,
+        "min_max_coords": {
+          "lat_max": 51.528898,
+          "lat_min": 51.528676,
+          "lng_max": 9.881299,
+          "lng_min": 9.880663
+        },
+        "name": "Intersport",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Intersport",
+        "parent_2": "Mall 3",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.88145,
+              51.528728
+            ],
+            [
+              9.881617,
+              51.528727
+            ],
+            [
+              9.881615,
+              51.528673
+            ],
+            [
+              9.881447,
+              51.528674
+            ],
+            [
+              9.88145,
+              51.528728
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 69.7504,
+        "max_distance": 10,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.528728,
+          "lat_min": 51.528673,
+          "lng_max": 9.881617,
+          "lng_min": 9.881447
+        },
+        "name": "No1 Mode",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of No1 Mode",
+        "parent_2": "Mall 3",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.88145,
+              51.528783
+            ],
+            [
+              9.881685,
+              51.52878
+            ],
+            [
+              9.881685,
+              51.528726
+            ],
+            [
+              9.88145,
+              51.528728
+            ],
+            [
+              9.88145,
+              51.528783
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 98.7375,
+        "max_distance": 30,
+        "max_duration": 0,
+        "min_duration": 60,
+        "min_max_coords": {
+          "lat_max": 51.528783,
+          "lat_min": 51.528726,
+          "lng_max": 9.881685,
+          "lng_min": 9.88145
+        },
+        "name": "Bijou Brigitte",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Bijou Brigitte",
+        "parent_2": "Mall 3",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881452,
+              51.528851
+            ],
+            [
+              9.881835,
+              51.528847
+            ],
+            [
+              9.881835,
+              51.52877
+            ],
+            [
+              9.881685,
+              51.528771
+            ],
+            [
+              9.881685,
+              51.52878
+            ],
+            [
+              9.88145,
+              51.528783
+            ],
+            [
+              9.881452,
+              51.528851
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 212.5735,
+        "max_distance": 20,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.528851,
+          "lat_min": 51.52877,
+          "lng_max": 9.881835,
+          "lng_min": 9.88145
+        },
+        "name": "Ernsting",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Ernsting",
+        "parent_2": "Mall 3",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881186,
+              51.529324
+            ],
+            [
+              9.880935,
+              51.529326
+            ],
+            [
+              9.880935,
+              51.529361
+            ],
+            [
+              9.880935,
+              51.52938
+            ],
+            [
+              9.880845,
+              51.529382
+            ],
+            [
+              9.880848,
+              51.529436
+            ],
+            [
+              9.880376,
+              51.529441
+            ],
+            [
+              9.8804,
+              51.530401
+            ],
+            [
+              9.881224,
+              51.530396
+            ],
+            [
+              9.881186,
+              51.529324
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 6322.882,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.530401,
+          "lat_min": 51.529324,
+          "lng_max": 9.881224,
+          "lng_min": 9.880376
+        },
+        "name": "Kaufland",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Kaufland",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881224,
+              51.530396
+            ],
+            [
+              9.881427,
+              51.530396
+            ],
+            [
+              9.88142,
+              51.530077
+            ],
+            [
+              9.881216,
+              51.530079
+            ],
+            [
+              9.881224,
+              51.530396
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 498.9368,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.530396,
+          "lat_min": 51.530077,
+          "lng_max": 9.881427,
+          "lng_min": 9.881216
+        },
+        "name": "Getrankemarkt",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Getrankemarkt",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.8811,
+              51.52911
+            ],
+            [
+              9.881304,
+              51.529108
+            ],
+            [
+              9.881302,
+              51.528978
+            ],
+            [
+              9.881098,
+              51.52898
+            ],
+            [
+              9.8811,
+              51.52911
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 204.4815,
+        "max_distance": 25,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.52911,
+          "lat_min": 51.528978,
+          "lng_max": 9.881304,
+          "lng_min": 9.881098
+        },
+        "name": "Eiscafe",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Eiscafe",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881456,
+              51.528928
+            ],
+            [
+              9.881662,
+              51.528926
+            ],
+            [
+              9.881659,
+              51.528873
+            ],
+            [
+              9.881452,
+              51.528873
+            ],
+            [
+              9.881456,
+              51.528928
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 85.9937,
+        "max_distance": 20,
+        "max_duration": 0,
+        "min_duration": 60,
+        "min_max_coords": {
+          "lat_max": 51.528928,
+          "lat_min": 51.528873,
+          "lng_max": 9.881662,
+          "lng_min": 9.881452
+        },
+        "name": "Goettinger reformhaus",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Goettinger reformhaus",
+        "parent_2": "Mall 3",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.88147,
+              51.528928
+            ],
+            [
+              9.881471,
+              51.528978
+            ],
+            [
+              9.881583,
+              51.528976
+            ],
+            [
+              9.881582,
+              51.528927
+            ],
+            [
+              9.88147,
+              51.528928
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 42.752,
+        "max_distance": 50,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.528978,
+          "lat_min": 51.528927,
+          "lng_max": 9.881583,
+          "lng_min": 9.88147
+        },
+        "name": "Zweinull",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Zweinull",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881529,
+              51.529167
+            ],
+            [
+              9.881635,
+              51.529166
+            ],
+            [
+              9.881633,
+              51.529106
+            ],
+            [
+              9.881605,
+              51.529105
+            ],
+            [
+              9.881603,
+              51.529085
+            ],
+            [
+              9.881526,
+              51.529082
+            ],
+            [
+              9.881529,
+              51.529167
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 63.0388,
+        "max_distance": 20,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529167,
+          "lat_min": 51.529082,
+          "lng_max": 9.881635,
+          "lng_min": 9.881526
+        },
+        "name": "Thiele",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Thiele",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881634,
+              51.529158
+            ],
+            [
+              9.881738,
+              51.529158
+            ],
+            [
+              9.881738,
+              51.529104
+            ],
+            [
+              9.881635,
+              51.529104
+            ],
+            [
+              9.881634,
+              51.529158
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 43.0872,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529158,
+          "lat_min": 51.529104,
+          "lng_max": 9.881738,
+          "lng_min": 9.881634
+        },
+        "name": "Edelweiss",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Edelweiss",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881696,
+              51.529005
+            ],
+            [
+              9.881693,
+              51.528926
+            ],
+            [
+              9.881582,
+              51.528927
+            ],
+            [
+              9.881584,
+              51.529006
+            ],
+            [
+              9.881696,
+              51.529005
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 67.9268,
+        "max_distance": 99,
+        "max_duration": 0,
+        "min_duration": 1,
+        "min_max_coords": {
+          "lat_max": 51.529006,
+          "lat_min": 51.528926,
+          "lng_max": 9.881696,
+          "lng_min": 9.881582
+        },
+        "name": "Lee",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Food Court",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881421,
+              51.530148
+            ],
+            [
+              9.881575,
+              51.530147
+            ],
+            [
+              9.881573,
+              51.530075
+            ],
+            [
+              9.88142,
+              51.530077
+            ],
+            [
+              9.881421,
+              51.530148
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 84.6269,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.530148,
+          "lat_min": 51.530075,
+          "lng_max": 9.881575,
+          "lng_min": 9.88142
+        },
+        "name": "Haar",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Haar",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.883008,
+              51.527096
+            ],
+            [
+              9.882386,
+              51.527103
+            ],
+            [
+              9.882384,
+              51.527029
+            ],
+            [
+              9.883005,
+              51.527028
+            ],
+            [
+              9.883008,
+              51.527096
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 340.2764,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.527103,
+          "lat_min": 51.527028,
+          "lng_max": 9.883008,
+          "lng_min": 9.882384
+        },
+        "name": "Tegut",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Lebensmittel",
+        "parent_2": "Parking_2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.882386,
+              51.527103
+            ],
+            [
+              9.882124,
+              51.527106
+            ],
+            [
+              9.882123,
+              51.527029
+            ],
+            [
+              9.882384,
+              51.527029
+            ],
+            [
+              9.882386,
+              51.527103
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 152.2306,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.527106,
+          "lat_min": 51.527029,
+          "lng_max": 9.882386,
+          "lng_min": 9.882123
+        },
+        "name": "Depot",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Haus / Interior / Geschenke",
+        "parent_2": "Parking_2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881812,
+              51.527143
+            ],
+            [
+              9.881808,
+              51.526919
+            ],
+            [
+              9.881619,
+              51.526921
+            ],
+            [
+              9.881618,
+              51.526869
+            ],
+            [
+              9.881911,
+              51.526873
+            ],
+            [
+              9.881917,
+              51.527143
+            ],
+            [
+              9.881812,
+              51.527143
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 290.3686,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.527143,
+          "lat_min": 51.526869,
+          "lng_max": 9.881917,
+          "lng_min": 9.881618
+        },
+        "name": "ADAC",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Dienstleistungen",
+        "parent_2": "Parking_3",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881272,
+              51.526925
+            ],
+            [
+              9.881022,
+              51.526929
+            ],
+            [
+              9.881019,
+              51.526878
+            ],
+            [
+              9.881271,
+              51.526874
+            ],
+            [
+              9.881272,
+              51.526925
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 98.7531,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.526929,
+          "lat_min": 51.526874,
+          "lng_max": 9.881272,
+          "lng_min": 9.881019
+        },
+        "name": "TEDI",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Haus / Interior / Geschenke",
+        "parent_2": "Parking_3",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881626,
+              51.529084
+            ],
+            [
+              9.881737,
+              51.529083
+            ],
+            [
+              9.881732,
+              51.529005
+            ],
+            [
+              9.881622,
+              51.529006
+            ],
+            [
+              9.881626,
+              51.529084
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 66.4812,
+        "max_distance": 5,
+        "max_duration": 0,
+        "min_duration": 1,
+        "min_max_coords": {
+          "lat_max": 51.529084,
+          "lat_min": 51.529005,
+          "lng_max": 9.881737,
+          "lng_min": 9.881622
+        },
+        "name": "Taverna Kavala",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Food Court",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.88181,
+              51.530015
+            ],
+            [
+              9.88157,
+              51.530018
+            ],
+            [
+              9.881573,
+              51.530075
+            ],
+            [
+              9.881811,
+              51.530073
+            ],
+            [
+              9.88181,
+              51.530015
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 105.9813,
+        "max_distance": 25,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.530075,
+          "lat_min": 51.530015,
+          "lng_max": 9.881811,
+          "lng_min": 9.88157
+        },
+        "name": "In front of Aldi",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Aldi",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.88142,
+              51.530077
+            ],
+            [
+              9.881418,
+              51.530023
+            ],
+            [
+              9.881424,
+              51.529991
+            ],
+            [
+              9.881455,
+              51.529988
+            ],
+            [
+              9.88157,
+              51.530018
+            ],
+            [
+              9.881573,
+              51.530075
+            ],
+            [
+              9.88142,
+              51.530077
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 88.8632,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.530077,
+          "lat_min": 51.529988,
+          "lng_max": 9.881573,
+          "lng_min": 9.881418
+        },
+        "name": "In front of Haar",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Haar",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881418,
+              51.530023
+            ],
+            [
+              9.881331,
+              51.530039
+            ],
+            [
+              9.881332,
+              51.530078
+            ],
+            [
+              9.88142,
+              51.530077
+            ],
+            [
+              9.881418,
+              51.530023
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 31.4648,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.530078,
+          "lat_min": 51.530023,
+          "lng_max": 9.88142,
+          "lng_min": 9.881331
+        },
+        "name": "In front of Getrankemarkt",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Getrankemarkt",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881331,
+              51.530001
+            ],
+            [
+              9.881424,
+              51.529991
+            ],
+            [
+              9.881418,
+              51.530023
+            ],
+            [
+              9.881331,
+              51.530039
+            ],
+            [
+              9.881331,
+              51.530001
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 23.9831,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.530039,
+          "lat_min": 51.529991,
+          "lng_max": 9.881424,
+          "lng_min": 9.881331
+        },
+        "name": "In front of Mobilcom",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Mobilcom",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881329,
+              51.529949
+            ],
+            [
+              9.881433,
+              51.529949
+            ],
+            [
+              9.881412,
+              51.529913
+            ],
+            [
+              9.881328,
+              51.529916
+            ],
+            [
+              9.881329,
+              51.529949
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 25.128,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529949,
+          "lat_min": 51.529913,
+          "lng_max": 9.881433,
+          "lng_min": 9.881328
+        },
+        "name": "In front of Curry37",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Curry37",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881412,
+              51.529913
+            ],
+            [
+              9.881409,
+              51.529805
+            ],
+            [
+              9.881326,
+              51.529808
+            ],
+            [
+              9.881328,
+              51.529916
+            ],
+            [
+              9.881412,
+              51.529913
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 69.5791,
+        "max_distance": 7,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529916,
+          "lat_min": 51.529805,
+          "lng_max": 9.881412,
+          "lng_min": 9.881326
+        },
+        "name": "In front of Fotofachgeschäft Heinrich",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Fotofachgeschäft Heinrich",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881409,
+              51.529805
+            ],
+            [
+              9.881411,
+              51.52967
+            ],
+            [
+              9.881322,
+              51.529673
+            ],
+            [
+              9.881322,
+              51.529686
+            ],
+            [
+              9.881326,
+              51.529808
+            ],
+            [
+              9.881409,
+              51.529805
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 89.7272,
+        "max_distance": 10,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529808,
+          "lat_min": 51.52967,
+          "lng_max": 9.881411,
+          "lng_min": 9.881322
+        },
+        "name": "In front of Telekom Shop",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Telekom Shop",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881322,
+              51.529673
+            ],
+            [
+              9.881411,
+              51.52967
+            ],
+            [
+              9.88141,
+              51.529661
+            ],
+            [
+              9.881406,
+              51.529592
+            ],
+            [
+              9.88132,
+              51.529594
+            ],
+            [
+              9.881322,
+              51.529673
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 52.8928,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529673,
+          "lat_min": 51.529592,
+          "lng_max": 9.881411,
+          "lng_min": 9.88132
+        },
+        "name": "In front of Vodafone Shop",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Vodafone Shop",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881406,
+              51.529592
+            ],
+            [
+              9.881401,
+              51.529524
+            ],
+            [
+              9.881318,
+              51.529526
+            ],
+            [
+              9.88132,
+              51.529594
+            ],
+            [
+              9.881406,
+              51.529592
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 44.3511,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529594,
+          "lat_min": 51.529524,
+          "lng_max": 9.881406,
+          "lng_min": 9.881318
+        },
+        "name": "In front of TUI",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of TUI",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881401,
+              51.529524
+            ],
+            [
+              9.881395,
+              51.529404
+            ],
+            [
+              9.881225,
+              51.529407
+            ],
+            [
+              9.881227,
+              51.529432
+            ],
+            [
+              9.881315,
+              51.529431
+            ],
+            [
+              9.881318,
+              51.529526
+            ],
+            [
+              9.881401,
+              51.529524
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 93.301,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529526,
+          "lat_min": 51.529404,
+          "lng_max": 9.881401,
+          "lng_min": 9.881225
+        },
+        "name": "In front of Engbers",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Engbers",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881226,
+              51.529324
+            ],
+            [
+              9.881339,
+              51.529324
+            ],
+            [
+              9.881334,
+              51.529269
+            ],
+            [
+              9.881225,
+              51.52927
+            ],
+            [
+              9.881226,
+              51.529324
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 46.6487,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529324,
+          "lat_min": 51.529269,
+          "lng_max": 9.881339,
+          "lng_min": 9.881225
+        },
+        "name": "In front of Tabak",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Tabak",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881394,
+              51.529324
+            ],
+            [
+              9.881395,
+              51.529404
+            ],
+            [
+              9.881225,
+              51.529407
+            ],
+            [
+              9.881227,
+              51.529432
+            ],
+            [
+              9.881189,
+              51.529433
+            ],
+            [
+              9.881186,
+              51.529324
+            ],
+            [
+              9.881226,
+              51.529324
+            ],
+            [
+              9.881394,
+              51.529324
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 138.0765,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529433,
+          "lat_min": 51.529324,
+          "lng_max": 9.881395,
+          "lng_min": 9.881186
+        },
+        "name": "In front of Kaufland",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Kaufland",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881334,
+              51.529269
+            ],
+            [
+              9.881331,
+              51.529136
+            ],
+            [
+              9.881389,
+              51.529135
+            ],
+            [
+              9.881388,
+              51.529106
+            ],
+            [
+              9.88133,
+              51.529108
+            ],
+            [
+              9.881218,
+              51.529109
+            ],
+            [
+              9.881225,
+              51.52927
+            ],
+            [
+              9.881334,
+              51.529269
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 150.1382,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.52927,
+          "lat_min": 51.529106,
+          "lng_max": 9.881389,
+          "lng_min": 9.881218
+        },
+        "name": "In front of Expert Herfag",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Expert Herfag",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881388,
+              51.529106
+            ],
+            [
+              9.881385,
+              51.528979
+            ],
+            [
+              9.881302,
+              51.528978
+            ],
+            [
+              9.881304,
+              51.529108
+            ],
+            [
+              9.881388,
+              51.529106
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 82.7285,
+        "max_distance": 25,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529108,
+          "lat_min": 51.528978,
+          "lng_max": 9.881388,
+          "lng_min": 9.881302
+        },
+        "name": "In front of Eiscafe",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Eiscafe",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881302,
+              51.528978
+            ],
+            [
+              9.881301,
+              51.528931
+            ],
+            [
+              9.881217,
+              51.528932
+            ],
+            [
+              9.881218,
+              51.528979
+            ],
+            [
+              9.881302,
+              51.528978
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 30.4441,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.528979,
+          "lat_min": 51.528931,
+          "lng_max": 9.881302,
+          "lng_min": 9.881217
+        },
+        "name": "Shirt Garden",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Shirt Garden",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881303,
+              51.52892
+            ],
+            [
+              9.881346,
+              51.52892
+            ],
+            [
+              9.881381,
+              51.528919
+            ],
+            [
+              9.881382,
+              51.528929
+            ],
+            [
+              9.881385,
+              51.528979
+            ],
+            [
+              9.881302,
+              51.528978
+            ],
+            [
+              9.881303,
+              51.52892
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 36.5268,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.528979,
+          "lat_min": 51.528919,
+          "lng_max": 9.881385,
+          "lng_min": 9.881302
+        },
+        "name": "In front of Shirt Garden",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Shirt Garden",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881303,
+              51.52892
+            ],
+            [
+              9.881381,
+              51.528919
+            ],
+            [
+              9.881378,
+              51.528837
+            ],
+            [
+              9.881299,
+              51.528838
+            ],
+            [
+              9.881303,
+              51.52892
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 49.6519,
+        "max_distance": 30,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.52892,
+          "lat_min": 51.528837,
+          "lng_max": 9.881381,
+          "lng_min": 9.881299
+        },
+        "name": "In front of Zoo Busch",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Zoo Busch",
+        "parent_2": "Mall 3",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881378,
+              51.528837
+            ],
+            [
+              9.881373,
+              51.528677
+            ],
+            [
+              9.881294,
+              51.528676
+            ],
+            [
+              9.881299,
+              51.528838
+            ],
+            [
+              9.881378,
+              51.528837
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 98.0552,
+        "max_distance": 99,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.528838,
+          "lat_min": 51.528676,
+          "lng_max": 9.881378,
+          "lng_min": 9.881294
+        },
+        "name": "In front of Intersport",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Intersport",
+        "parent_2": "Mall 3",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881373,
+              51.528677
+            ],
+            [
+              9.881369,
+              51.528476
+            ],
+            [
+              9.88148,
+              51.528402
+            ],
+            [
+              9.881615,
+              51.528402
+            ],
+            [
+              9.881609,
+              51.528349
+            ],
+            [
+              9.881286,
+              51.528352
+            ],
+            [
+              9.881294,
+              51.528676
+            ],
+            [
+              9.881373,
+              51.528677
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 329.839,
+        "max_distance": 20,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.528677,
+          "lat_min": 51.528349,
+          "lng_max": 9.881615,
+          "lng_min": 9.881286
+        },
+        "name": "In front of OBI",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of OBI",
+        "parent_2": "Mall 3",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881529,
+              51.528459
+            ],
+            [
+              9.881516,
+              51.528402
+            ],
+            [
+              9.881517,
+              51.528402
+            ],
+            [
+              9.88148,
+              51.528402
+            ],
+            [
+              9.881369,
+              51.528476
+            ],
+            [
+              9.881371,
+              51.528569
+            ],
+            [
+              9.881445,
+              51.528567
+            ],
+            [
+              9.881445,
+              51.528513
+            ],
+            [
+              9.881529,
+              51.528459
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 116.4389,
+        "max_distance": 99,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.528569,
+          "lat_min": 51.528402,
+          "lng_max": 9.881529,
+          "lng_min": 9.881369
+        },
+        "name": "In front of Thalia",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Thalia",
+        "parent_2": "Mall 3",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881371,
+              51.528569
+            ],
+            [
+              9.881373,
+              51.528677
+            ],
+            [
+              9.881447,
+              51.528674
+            ],
+            [
+              9.881445,
+              51.528567
+            ],
+            [
+              9.881371,
+              51.528569
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 61.3666,
+        "max_distance": 99,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.528677,
+          "lat_min": 51.528567,
+          "lng_max": 9.881447,
+          "lng_min": 9.881371
+        },
+        "name": "In front of Deichmann",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Deichmann",
+        "parent_2": "Mall 3",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881373,
+              51.528677
+            ],
+            [
+              9.881374,
+              51.52873
+            ],
+            [
+              9.88145,
+              51.528728
+            ],
+            [
+              9.881447,
+              51.528674
+            ],
+            [
+              9.881373,
+              51.528677
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 30.9724,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.52873,
+          "lat_min": 51.528674,
+          "lng_max": 9.88145,
+          "lng_min": 9.881373
+        },
+        "name": "In front of No1 Mode",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of No1 Mode",
+        "parent_2": "Mall 3",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881374,
+              51.52873
+            ],
+            [
+              9.881376,
+              51.528783
+            ],
+            [
+              9.88145,
+              51.528783
+            ],
+            [
+              9.88145,
+              51.528728
+            ],
+            [
+              9.881374,
+              51.52873
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 31.2306,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.528783,
+          "lat_min": 51.528728,
+          "lng_max": 9.88145,
+          "lng_min": 9.881374
+        },
+        "name": "In front of Bijou Brigitte",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Bijou Brigitte",
+        "parent_2": "Mall 3",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881376,
+              51.528783
+            ],
+            [
+              9.881378,
+              51.528837
+            ],
+            [
+              9.881379,
+              51.528853
+            ],
+            [
+              9.881452,
+              51.528851
+            ],
+            [
+              9.88145,
+              51.528783
+            ],
+            [
+              9.881376,
+              51.528783
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 39.202,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.528853,
+          "lat_min": 51.528783,
+          "lng_max": 9.881452,
+          "lng_min": 9.881376
+        },
+        "name": "In front of Ernsting",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Ernsting",
+        "parent_2": "Mall 3",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881452,
+              51.528851
+            ],
+            [
+              9.881379,
+              51.528853
+            ],
+            [
+              9.881382,
+              51.528929
+            ],
+            [
+              9.881456,
+              51.528928
+            ],
+            [
+              9.881452,
+              51.528851
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 43.3881,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.528929,
+          "lat_min": 51.528851,
+          "lng_max": 9.881456,
+          "lng_min": 9.881379
+        },
+        "name": "In front of Goettinger reformhaus",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Goettinger reformhaus",
+        "parent_2": "Mall 3",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.88147,
+              51.528928
+            ],
+            [
+              9.881456,
+              51.528928
+            ],
+            [
+              9.881382,
+              51.528929
+            ],
+            [
+              9.881385,
+              51.528979
+            ],
+            [
+              9.881472,
+              51.528978
+            ],
+            [
+              9.88147,
+              51.528928
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 33.8015,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.528979,
+          "lat_min": 51.528928,
+          "lng_max": 9.881472,
+          "lng_min": 9.881382
+        },
+        "name": "In front of Zweinull",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Zweinull",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881526,
+              51.529082
+            ],
+            [
+              9.881387,
+              51.52908
+            ],
+            [
+              9.881388,
+              51.529106
+            ],
+            [
+              9.881389,
+              51.529135
+            ],
+            [
+              9.881471,
+              51.529133
+            ],
+            [
+              9.881474,
+              51.529216
+            ],
+            [
+              9.881632,
+              51.529212
+            ],
+            [
+              9.881635,
+              51.529166
+            ],
+            [
+              9.881529,
+              51.529167
+            ],
+            [
+              9.881526,
+              51.529082
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 129.6894,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529216,
+          "lat_min": 51.52908,
+          "lng_max": 9.881635,
+          "lng_min": 9.881387
+        },
+        "name": "In front of Thiele",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Thiele",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881632,
+              51.529212
+            ],
+            [
+              9.881733,
+              51.529213
+            ],
+            [
+              9.881738,
+              51.529158
+            ],
+            [
+              9.881634,
+              51.529158
+            ],
+            [
+              9.881635,
+              51.529166
+            ],
+            [
+              9.881632,
+              51.529212
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 42.8096,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529213,
+          "lat_min": 51.529158,
+          "lng_max": 9.881738,
+          "lng_min": 9.881632
+        },
+        "name": "In front of Edelweiss",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Edelweiss",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.88177,
+              51.529265
+            ],
+            [
+              9.88177,
+              51.529212
+            ],
+            [
+              9.881733,
+              51.529213
+            ],
+            [
+              9.881632,
+              51.529212
+            ],
+            [
+              9.881474,
+              51.529216
+            ],
+            [
+              9.881474,
+              51.529264
+            ],
+            [
+              9.881477,
+              51.529323
+            ],
+            [
+              9.881394,
+              51.529324
+            ],
+            [
+              9.881394,
+              51.529354
+            ],
+            [
+              9.881553,
+              51.529353
+            ],
+            [
+              9.881551,
+              51.529267
+            ],
+            [
+              9.88177,
+              51.529265
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 190.6771,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529354,
+          "lat_min": 51.529212,
+          "lng_max": 9.88177,
+          "lng_min": 9.881394
+        },
+        "name": "In front of Capricorn",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Capricorn",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881394,
+              51.529354
+            ],
+            [
+              9.881395,
+              51.529404
+            ],
+            [
+              9.881554,
+              51.529415
+            ],
+            [
+              9.881553,
+              51.529353
+            ],
+            [
+              9.881394,
+              51.529354
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 68.6046,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529415,
+          "lat_min": 51.529353,
+          "lng_max": 9.881554,
+          "lng_min": 9.881394
+        },
+        "name": "In front of Cocoon",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Cocoon",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881395,
+              51.529404
+            ],
+            [
+              9.881396,
+              51.529414
+            ],
+            [
+              9.881398,
+              51.529468
+            ],
+            [
+              9.88147,
+              51.529467
+            ],
+            [
+              9.881469,
+              51.529429
+            ],
+            [
+              9.881554,
+              51.529428
+            ],
+            [
+              9.881554,
+              51.529415
+            ],
+            [
+              9.881395,
+              51.529404
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 44.8292,
+        "max_distance": 99,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529468,
+          "lat_min": 51.529404,
+          "lng_max": 9.881554,
+          "lng_min": 9.881395
+        },
+        "name": "In front of S_Oliver",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of S_Oliver",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881398,
+              51.529468
+            ],
+            [
+              9.881401,
+              51.529524
+            ],
+            [
+              9.881404,
+              51.529564
+            ],
+            [
+              9.881473,
+              51.529564
+            ],
+            [
+              9.881472,
+              51.529554
+            ],
+            [
+              9.88147,
+              51.529467
+            ],
+            [
+              9.881398,
+              51.529468
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 52.3919,
+        "max_distance": 99,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529564,
+          "lat_min": 51.529467,
+          "lng_max": 9.881473,
+          "lng_min": 9.881398
+        },
+        "name": "In front of Douglas",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Douglas",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881473,
+              51.529577
+            ],
+            [
+              9.881473,
+              51.529564
+            ],
+            [
+              9.881404,
+              51.529564
+            ],
+            [
+              9.881406,
+              51.529592
+            ],
+            [
+              9.881411,
+              51.52967
+            ],
+            [
+              9.881476,
+              51.529668
+            ],
+            [
+              9.881473,
+              51.529577
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 54.0608,
+        "max_distance": 10,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.52967,
+          "lat_min": 51.529564,
+          "lng_max": 9.881476,
+          "lng_min": 9.881404
+        },
+        "name": "In front of Rossmann",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Rossmann",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881411,
+              51.52967
+            ],
+            [
+              9.881409,
+              51.52979
+            ],
+            [
+              9.881479,
+              51.529789
+            ],
+            [
+              9.881476,
+              51.529668
+            ],
+            [
+              9.881411,
+              51.52967
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 62.7104,
+        "max_distance": 10,
+        "max_duration": 0,
+        "min_duration": 1,
+        "min_max_coords": {
+          "lat_max": 51.52979,
+          "lat_min": 51.529668,
+          "lng_max": 9.881479,
+          "lng_min": 9.881409
+        },
+        "name": "In front of Watch&Co",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Watch&Co",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881409,
+              51.52979
+            ],
+            [
+              9.881409,
+              51.529805
+            ],
+            [
+              9.881411,
+              51.529862
+            ],
+            [
+              9.881481,
+              51.52986
+            ],
+            [
+              9.881479,
+              51.529789
+            ],
+            [
+              9.881409,
+              51.52979
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 38.7232,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529862,
+          "lat_min": 51.529789,
+          "lng_max": 9.881481,
+          "lng_min": 9.881409
+        },
+        "name": "In front of Apollo-Optik",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Apollo-Optik",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881411,
+              51.529862
+            ],
+            [
+              9.881412,
+              51.529913
+            ],
+            [
+              9.881455,
+              51.529988
+            ],
+            [
+              9.88157,
+              51.530018
+            ],
+            [
+              9.88157,
+              51.530018
+            ],
+            [
+              9.88157,
+              51.530018
+            ],
+            [
+              9.88157,
+              51.529968
+            ],
+            [
+              9.88157,
+              51.529968
+            ],
+            [
+              9.88157,
+              51.529968
+            ],
+            [
+              9.881482,
+              51.529915
+            ],
+            [
+              9.881481,
+              51.52986
+            ],
+            [
+              9.881411,
+              51.529862
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 100.9475,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.530018,
+          "lat_min": 51.52986,
+          "lng_max": 9.88157,
+          "lng_min": 9.881411
+        },
+        "name": "In front of Apotheke",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Apotheke",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881213,
+              51.530002
+            ],
+            [
+              9.88121,
+              51.529951
+            ],
+            [
+              9.881329,
+              51.529949
+            ],
+            [
+              9.881331,
+              51.530001
+            ],
+            [
+              9.881213,
+              51.530002
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 47.0759,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.530002,
+          "lat_min": 51.529949,
+          "lng_max": 9.881331,
+          "lng_min": 9.88121
+        },
+        "name": "Deutsche Post",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Deutsche Post",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881331,
+              51.530001
+            ],
+            [
+              9.881455,
+              51.529988
+            ],
+            [
+              9.881433,
+              51.529949
+            ],
+            [
+              9.881329,
+              51.529949
+            ],
+            [
+              9.881331,
+              51.530001
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 40.5886,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.530001,
+          "lat_min": 51.529949,
+          "lng_max": 9.881455,
+          "lng_min": 9.881329
+        },
+        "name": "In front of Deutsche Post",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "In front of Deutsche Post",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881387,
+              51.52908
+            ],
+            [
+              9.881626,
+              51.529084
+            ],
+            [
+              9.881622,
+              51.529006
+            ],
+            [
+              9.881584,
+              51.529006
+            ],
+            [
+              9.881583,
+              51.528976
+            ],
+            [
+              9.881385,
+              51.528979
+            ],
+            [
+              9.881387,
+              51.52908
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 182.8107,
+        "max_distance": 50,
+        "max_duration": 0,
+        "min_duration": 60,
+        "min_max_coords": {
+          "lat_max": 51.529084,
+          "lat_min": 51.528976,
+          "lng_max": 9.881626,
+          "lng_min": 9.881385
+        },
+        "name": "Food Court",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Food Court",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881782,
+              51.529965
+            ],
+            [
+              9.881914,
+              51.529964
+            ],
+            [
+              9.881915,
+              51.530072
+            ],
+            [
+              9.881811,
+              51.530073
+            ],
+            [
+              9.88181,
+              51.530015
+            ],
+            [
+              9.88157,
+              51.530018
+            ],
+            [
+              9.88157,
+              51.529968
+            ],
+            [
+              9.881782,
+              51.529965
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 179.7309,
+        "max_distance": 99,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.530073,
+          "lat_min": 51.529964,
+          "lng_max": 9.881915,
+          "lng_min": 9.88157
+        },
+        "name": "Eingang rechts",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Mall 1",
+        "parent_2": "Mall 1",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.88177,
+              51.529265
+            ],
+            [
+              9.881898,
+              51.529264
+            ],
+            [
+              9.881898,
+              51.529159
+            ],
+            [
+              9.881738,
+              51.529158
+            ],
+            [
+              9.881733,
+              51.529213
+            ],
+            [
+              9.88177,
+              51.529212
+            ],
+            [
+              9.88177,
+              51.529265
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 118.9618,
+        "max_distance": 99,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529265,
+          "lat_min": 51.529158,
+          "lng_max": 9.881898,
+          "lng_min": 9.881733
+        },
+        "name": "Eingang Mitte",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881747,
+              51.528455
+            ],
+            [
+              9.881888,
+              51.528455
+            ],
+            [
+              9.881888,
+              51.528349
+            ],
+            [
+              9.881609,
+              51.528349
+            ],
+            [
+              9.881615,
+              51.528402
+            ],
+            [
+              9.881516,
+              51.528402
+            ],
+            [
+              9.881529,
+              51.528459
+            ],
+            [
+              9.881747,
+              51.528455
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 265.6778,
+        "max_distance": 10,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.528459,
+          "lat_min": 51.528349,
+          "lng_max": 9.881888,
+          "lng_min": 9.881516
+        },
+        "name": "Eingang Links",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "",
+        "parent_2": "Mall 3",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              9.881339,
+              51.529324
+            ],
+            [
+              9.881394,
+              51.529324
+            ],
+            [
+              9.881477,
+              51.529323
+            ],
+            [
+              9.881474,
+              51.529264
+            ],
+            [
+              9.881474,
+              51.529216
+            ],
+            [
+              9.881471,
+              51.529133
+            ],
+            [
+              9.881389,
+              51.529135
+            ],
+            [
+              9.881331,
+              51.529136
+            ],
+            [
+              9.881334,
+              51.529269
+            ],
+            [
+              9.881339,
+              51.529324
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 204.3689,
+        "max_distance": 0,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 51.529324,
+          "lat_min": 51.529133,
+          "lng_max": 9.881477,
+          "lng_min": 9.881331
+        },
+        "name": "Atrium",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "Mall 2",
+        "parent_2": "Mall 2",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
