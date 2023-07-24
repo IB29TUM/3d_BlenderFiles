@@ -1,0 +1,395 @@
+{
+  "features": [
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              11.614043,
+              48.136281
+            ],
+            [
+              11.613991,
+              48.136275
+            ],
+            [
+              11.613988,
+              48.136301
+            ],
+            [
+              11.613889,
+              48.136293
+            ],
+            [
+              11.613893,
+              48.136272
+            ],
+            [
+              11.61363,
+              48.136249
+            ],
+            [
+              11.61369,
+              48.135923
+            ],
+            [
+              11.614406,
+              48.135983
+            ],
+            [
+              11.614361,
+              48.136259
+            ],
+            [
+              11.614356,
+              48.136308
+            ],
+            [
+              11.614186,
+              48.136293
+            ],
+            [
+              11.614113,
+              48.13631
+            ],
+            [
+              11.614044,
+              48.136327
+            ],
+            [
+              11.614029,
+              48.1363
+            ],
+            [
+              11.614046,
+              48.136296
+            ],
+            [
+              11.614043,
+              48.136281
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 2009.8709,
+        "max_distance": 55,
+        "max_duration": 0,
+        "min_duration": 1,
+        "min_max_coords": {
+          "lat_max": 48.136327,
+          "lat_min": 48.135923,
+          "lng_max": 11.614406,
+          "lng_min": 11.61363
+        },
+        "name": "Media Markt",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "",
+        "parent_2": "",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              11.614151,
+              48.136302
+            ],
+            [
+              11.614215,
+              48.1364
+            ],
+            [
+              11.614251,
+              48.136465
+            ],
+            [
+              11.614212,
+              48.136474
+            ],
+            [
+              11.614126,
+              48.136333
+            ],
+            [
+              11.614057,
+              48.136353
+            ],
+            [
+              11.614044,
+              48.136327
+            ],
+            [
+              11.614151,
+              48.136302
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 77.845,
+        "max_distance": 50,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 48.136474,
+          "lat_min": 48.136302,
+          "lng_max": 11.614251,
+          "lng_min": 11.614044
+        },
+        "name": "Schuh Mücke",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "",
+        "parent_2": "",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              11.61373,
+              48.136492
+            ],
+            [
+              11.613883,
+              48.136506
+            ],
+            [
+              11.613905,
+              48.136394
+            ],
+            [
+              11.613751,
+              48.136377
+            ],
+            [
+              11.61373,
+              48.136492
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 146.8368,
+        "max_distance": 50,
+        "max_duration": 0,
+        "min_duration": 60,
+        "min_max_coords": {
+          "lat_max": 48.136506,
+          "lat_min": 48.136377,
+          "lng_max": 11.613905,
+          "lng_min": 11.61373
+        },
+        "name": "Burger King",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "",
+        "parent_2": "",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              11.61373,
+              48.136492
+            ],
+            [
+              11.613744,
+              48.136415
+            ],
+            [
+              11.613751,
+              48.136377
+            ],
+            [
+              11.613678,
+              48.136362
+            ],
+            [
+              11.613677,
+              48.136396
+            ],
+            [
+              11.613665,
+              48.136468
+            ],
+            [
+              11.613689,
+              48.136484
+            ],
+            [
+              11.61373,
+              48.136492
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 55.5202,
+        "max_distance": 50,
+        "max_duration": 0,
+        "min_duration": 7,
+        "min_max_coords": {
+          "lat_max": 48.136483,
+          "lat_min": 48.136361,
+          "lng_max": 11.613745,
+          "lng_min": 11.613665
+        },
+        "name": "VitAsia",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "",
+        "parent_2": "",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              11.613411,
+              48.13637
+            ],
+            [
+              11.613646,
+              48.13641
+            ],
+            [
+              11.613666,
+              48.136344
+            ],
+            [
+              11.613434,
+              48.136297
+            ],
+            [
+              11.613411,
+              48.13637
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 141.9412,
+        "max_distance": 50,
+        "max_duration": 0,
+        "min_duration": 15,
+        "min_max_coords": {
+          "lat_max": 48.13641,
+          "lat_min": 48.136297,
+          "lng_max": 11.613666,
+          "lng_min": 11.613411
+        },
+        "name": "KIK",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "",
+        "parent_2": "",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              11.613439,
+              48.136256
+            ],
+            [
+              11.613437,
+              48.136179
+            ],
+            [
+              11.613509,
+              48.136187
+            ],
+            [
+              11.613495,
+              48.13627
+            ],
+            [
+              11.613441,
+              48.136271
+            ],
+            [
+              11.613439,
+              48.136256
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "properties": {
+        "geodesic_area": 46.2457,
+        "max_distance": 99,
+        "max_duration": 0,
+        "min_duration": 0,
+        "min_max_coords": {
+          "lat_max": 48.136271,
+          "lat_min": 48.136179,
+          "lng_max": 11.613509,
+          "lng_min": 11.613437
+        },
+        "name": "1 OG Parkhaus",
+        "opening": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "parent_1": "",
+        "parent_2": "",
+        "passers_by_polygon": false,
+        "status": true
+      },
+      "type": "Feature"
+    }
+  ],
+  "type": "FeatureCollection"
+}
